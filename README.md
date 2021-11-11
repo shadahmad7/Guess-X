@@ -32,3 +32,11 @@
 
 © Based on React Native - The Practical Guide by Maximilian Schwarzmüller.
 
+<h3>Download Expo-client App on android or ios and scan the barcode to run the App</h3>
+![Screenshot](screenshot1.png)
+<h4>Some ScreenShots</h4>
+![Screenshot](screenshot2.png)
+![Screenshot](screenshot3.png)
+![Screenshot](screenshot4.png)
+
+

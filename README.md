@@ -1,33 +1,34 @@
 <h1>Guess-X</h1>
-A game to understand components, styling and layout in React Native:
+• A game to understand components, styling and layout in React Native:
 
-guessing-game logic and random number generation
 
-switching between 3 screens (start game, game, game over)
+• guessing-game logic and random number generation
 
-custom components (header, card, button)
+• switching between 3 screens (start game, game, game over)
 
-color theming with constants
+• custom components (header, card, button)
 
-custom fonts with expo-font (AppLoading)
+• color theming with constants
 
-custom wrapper components (TitleText, BodyText) and global styles (default-styles)
+• custom fonts with expo-font (AppLoading)
 
-custom icons with @expo/vector-icons
+• custom wrapper components (TitleText, BodyText) and global styles (default-styles)
 
-displaying local images and online images
+• custom icons with @expo/vector-icons
 
-styling (TextInput, nested Text, list and list items)
+• displaying local images and online images
 
-using Scrollview and FlatList with flexbox
+• styling (TextInput, nested Text, list and list items)
 
-using React Native APIs (Alert, Keyboard, Dimensions, Platform)
+• using Scrollview and FlatList with flexbox
 
-using React hooks (useState, useEffect, useRef)
+• using React Native APIs (Alert, Keyboard, Dimensions, Platform)
 
-responsive and adaptative UI (device orientation with ScreenOrientation, dynamic layout with Dimensions and hooks)
+• using React hooks (useState, useEffect, useRef)
 
-platform-specific code for iOS and Android (Platform)
+• responsive and adaptative UI (device orientation with ScreenOrientation, dynamic layout with Dimensions and hooks)
 
-Based on React Native - The Practical Guide by Maximilian Schwarzmüller.
+• platform-specific code for iOS and Android (Platform)
+
+© Based on React Native - The Practical Guide by Maximilian Schwarzmüller.
 

@@ -35,8 +35,8 @@
 <h3>Download Expo-client App on android or ios and scan the barcode to run the App</h3>
 <img src="screenshot1.PNG" width="180" height="200"/>
 <h4>Some ScreenShots</h4>
-<img src="screenshot2.jpeg" width="200" height="900"/>
-<img src="screenshot3.jpeg" width="200" height="900"/>
-<img src="screenshot4.jpeg" width="200" height="900"/>
+<img src="screenshot2.jpeg" width="400" height="800"/>
+<img src="screenshot3.jpeg" width="400" height="800"/>
+<img src="screenshot4.jpeg" width="400" height="800"/>
 
 

@@ -33,10 +33,10 @@
 © Based on React Native - The Practical Guide by Maximilian Schwarzmüller.
 
 <h3>Download Expo-client App on android or ios and scan the barcode to run the App</h3>
-![] (/screenshot1.png)
+<img src="screenshot1.png" width="128"/>
 <h4>Some ScreenShots</h4>
-![] (/screenshot2.jpeg)
-![] (/screenshot3.jpeg)
-![] (/screenshot4.jpeg)
+<img src="screenshot2.jpeg" width="128"/>
+<img src="screenshot3.jpeg" width="128"/>
+<img src="screenshot4.jpeg" width="128"/>
 
 
